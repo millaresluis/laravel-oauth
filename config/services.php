@@ -35,4 +35,9 @@ return [
         'client_secret' => env('FB_SECRET'),
         'redirect' => 'http://localhost:8000/auth/facebook/callback',
     ],
+    'github' => [
+        'client_id' => env('GITHUB_APP'),
+        'client_secret' => env('GITHUB_SECRET'),
+        'redirect' => 'http://localhost:8000/auth/github/callback',
+    ],
 ];
