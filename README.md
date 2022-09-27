@@ -1,8 +1,8 @@
 # Simple OAuth using Laravel Socialite
 - Facebook
+- Github
 
 ## To do (Integration & Customization)
-- Github
 - Twitter
 - LinkedIn
 - Custom Login, Registration, Dashboard Page
